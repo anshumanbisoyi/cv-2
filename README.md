@@ -1,2 +1,1 @@
-# cv-2
-Learnt CSS while making this one.
+Learnt CSS while making this one. Had fun!
